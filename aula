@@ -1,4 +1,4 @@
-# Cálculo do Índice de Massa Corporal
+# Cálculo do Índice de Massa Corporal 1
 import os
  
 altura = float(input("Digite sua altura em metros: "))
