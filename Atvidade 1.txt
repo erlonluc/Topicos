@@ -1,8 +1,8 @@
 # Cálculo do Índice de Massa Corporal
 import os
  
-altura = float(input("Digite sua altura em metros: "))
-peso = float(input("Digite seu peso em Kg: "))
+altura = float(input("Por Favor Digite sua altura em metros: "))
+peso = float(input("Por Favor Digite seu peso em Kg: "))
  
 imc = peso / altura**2
  
